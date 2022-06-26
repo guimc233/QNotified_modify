@@ -1,4 +1,4 @@
-# QNotified
+# QNotifie
 
 ![QNotified logo](https://raw.githubusercontent.com/ferredoxin/QNotified/master/docs/title.png)
 
